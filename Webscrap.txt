@@ -1,0 +1,21 @@
+1.Selection of website
+
+2. Min 8columns and 300 rows
+
+3. Scraping the data from the website
+
+14 th dec (tuesday)
+
+4.Cleaning the data
+	a)Handling Null values
+	b)Conversion of Datatypes
+
+5. Making Your problem statement
+
+6. EDA
+	a)univariate
+	b)Bi
+	c)Multivariate Analysis(PS)
+
+
+
